@@ -1,0 +1,37 @@
+[
+  {
+    "userId": 1,
+    "firstName": "Dhruv",
+    "lastName": "Misra",
+    "email": "dhruvmisra@live.com",
+    "contact": "07835892893",
+    "address": {
+      "addressLine": "B - 47",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "110059"
+    },
+    "education": [
+      {
+        "schoolName": "ascavcas",
+        "degree": "asadk ",
+        "field": "lsakfmal",
+        "startYear": 2019,
+        "present": false,
+        "endYear": "1987",
+        "activities": "fklandlkn"
+      }
+    ],
+    "experience": [
+      {
+        "title": "alkndslk",
+        "companyName": "slkfnlkn",
+        "location": "aldkn",
+        "startDate": "2019-06-21",
+        "endDate": "2019-06-29",
+        "present": false,
+        "desc": "akjfbkjewbfk"
+      }
+    ]
+  }
+]
